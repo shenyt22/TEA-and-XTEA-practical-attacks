@@ -1,4 +1,4 @@
-# Cryptanalysis and Improved Attacks of Round-Reduced TEA and XTEA
+# Practical Attacks on Round-Reduced TEA and XTEA
 
 This is the repository of the paper 'Cryptanalysis and Improved Attacks of Round-Reduced TEA and XTEA'. It contains the python codes to verify the practical attacks against round-reduced TEA and XTEA.
 
